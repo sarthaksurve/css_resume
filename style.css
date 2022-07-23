@@ -1,0 +1,148 @@
+
+body{
+
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align:center;
+    
+}
+h1  {
+    padding-top: 100px;
+    margin-top:0px;
+    margin-bottom: 10px;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-size:550%;
+    color: #40514E;
+}
+h2{
+    font-family: 'Lobster', cursive;
+    font-size :130%;
+    color:#11999E;
+    font-weight:900;
+    font-size: 200%;
+   
+    }
+
+
+h3{
+    font-family: 'Indie Flower', cursive;
+    font-size: 120%;
+    color:#11999E;
+}
+h4{
+    font-family: 'Indie Flower', cursive;}
+p{font-family: 'Indie Flower', cursive;
+    font-size: 140%;
+    
+}
+
+
+
+.top{
+        background-color: #E4F9F5;
+        position:relative;
+        padding-top: 50px;
+    }
+ 
+.topcloud{
+    position:absolute;
+    right:500px;
+    top: 90px;
+}
+.bottomcloud{
+    position: absolute;
+    
+}
+
+
+.profile{
+    margin-top: 45px;
+}
+
+
+.python{
+    width: 100px;
+    float: left;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+}
+
+.css{
+    width: 100px;
+    float:right;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+    
+.skills{
+    
+    margin-left: 20%;
+    margin-right: 20%;
+}
+    
+
+.pythonskill{
+    margin-top: 60px;
+    text-align: left;
+    
+}
+.cssskill{
+    text-align: right;
+}
+.button{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    flex: 10 1 auto;
+    margin: 10px;
+  
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 200% auto;
+  color: white;
+ /* text-shadow: 0px 0px 10px rgba(0,0,0,0.2);*/
+  box-shadow: 0 0 20px #eee;
+  border-radius: 10px;
+}
+.button:hover {
+    background-position: right center;
+  }
+.button{
+    background-image: linear-gradient(to left, #11cdd4 10%,#40514E 51% , #11999e 100%);
+  }
+ 
+
+
+.bottom{       padding-bottom: 30px;
+    margin-top: 80px;
+    margin-left: 0px;
+
+
+    background-color: #66BFBF;
+    text-align: center;
+   
+    
+}
+.social{padding-top: 50px;
+word-spacing: 30px;}
+
+.footer-link{
+ color:#11999E;
+ font-family: 'Indie Flower', cursive;
+ 
+}
+
+.b1{
+    border-style: dotted;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 30%;
+}
